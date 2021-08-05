@@ -13,4 +13,4 @@ Database contains two Tables- Users Table & Transaction Table
 Flow of the Website: Home Page > View all Users > Select and View one User > Transfer Money > Select reciever > View all Users > View Transfer History.
 
 
-website link:-https://bank-transation.herokuapp.com/index.php
+Website link:-https://bank-transation.herokuapp.com/index.php
